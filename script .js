@@ -67,5 +67,5 @@ function createHearts(){
 
 function showFireworks(){
 
-    alert("🎆 Happy Friendship Day! ❤️\nStay Best Friends Forever! 🥳");
+    alert("yai loo chocolate 🍫🍫🍫🍫🍫🍪🍩🍰🍭🍬🌰🍩🍰🍪🧁🧁🧁our noodles bi🍜🍜🍜🍜🥳");
 }
