@@ -21,11 +21,11 @@ function bestFriend(){
 }
 
 function no1(){
-    alert("😒 Surprise miss kar doge? Chalo Yes par click karo ❤️");
+    alert("😒 Surprise miss kar doge? yahi umeed thii chalo ab yes pai click karo nhi too🔪🔪 ❤️");
 }
 
 function no2(){
-    alert("🐵 Bandar! 😂 Pehle Yes par click karo.");
+    alert("🐵 Bandariya! 😂 pher sai wohii chalo Pehle Yes par click karo.");
 }
 
 const noBtn=document.getElementById("noBtn");
@@ -67,5 +67,5 @@ function createHearts(){
 
 function showFireworks(){
 
-    alert("yai loo chocolate 🍫🍫🍫🍫🍫🍪🍩🍰🍭🍬🌰🍩🍰🍪🧁🧁🧁our noodles bi🍜🍜🍜🍜🥳");
+    alert("yai loo gift 🎁 chocolate 🍫🍫🍫🍫🍫🍪🍩🍰🍭🍬🌰🍩🍰🍪🧁🧁🧁our noodles bi🍜🍜🍜🍜 our mera bi jaldi sai bhjoo warna🥳");
 }
